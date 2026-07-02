@@ -23,9 +23,8 @@ function convert(){
         result.textContent = "Select a unit";
     }
 }
-//idk man you gotta add your touch to this yk 
-// switch themes; goal: 5. black done, white done,  warn sunset pink, ocean blue done, forest green
 
+//Differant themes code
 
 const themebtn = document.getElementById("themebtn")
 
